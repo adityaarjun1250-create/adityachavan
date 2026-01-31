@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JARVIS Holographic AI",
+  "description": "A futuristic AI Assistant named Jarvis with a 3D holographic interface, voice interaction, and a hacking-style UI, powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
